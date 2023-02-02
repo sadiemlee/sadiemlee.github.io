@@ -3725,7 +3725,7 @@ figcaption {
 .heading {
   margin: 220px auto 0px;
   padding: 24px 180px;
-  font-family: 'DM Sans', sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
   color: #c4c4c4;
   font-size: 44px;
   line-height: 56px;
@@ -3754,7 +3754,7 @@ figcaption {
 }
 
 .heading.dark1 {
-  font-family: Generalsans, sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
   color: #c4c4c4;
   line-height: 52px;
   font-weight: 600;
@@ -3768,12 +3768,12 @@ figcaption {
 }
 
 .text-block-2 {
-  font-family: 'IBM Plex Mono', sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
   text-align: center;
 }
 
 .project-keywords {
-  font-family: Generalsans, sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
   color: #757575;
   font-size: 11px;
   font-weight: 500;
@@ -4023,7 +4023,7 @@ figcaption {
 }
 
 .methodtext.card-grid-h1.cgh1n {
-  font-family: Generalsans, sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
   font-size: 24px;
   font-weight: 600;
   letter-spacing: -0.5px;
@@ -4167,7 +4167,7 @@ figcaption {
 .project-heading-3 {
   margin-right: 0px;
   margin-left: 0px;
-  font-family: 'Public Sans', sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
   color: #212121;
   font-size: 12px;
   line-height: 24px;
@@ -4212,7 +4212,7 @@ figcaption {
 }
 
 .project-heading-3.ph3-highlight.ph3hn {
-  font-family: 'DM Sans', sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
 }
 
 .project-heading-3.ph3-center {
@@ -4229,7 +4229,7 @@ figcaption {
 }
 
 .project-heading-3.ph3-grey {
-  font-family: 'Public Sans', sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
   color: #757575;
   font-size: 12px;
   font-weight: 500;
@@ -4253,7 +4253,7 @@ figcaption {
 }
 
 .project-heading-3.ph3n {
-  font-family: Generalsans, sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
   color: #e1e1e1;
   font-size: 11px;
   font-weight: 500;
@@ -4344,7 +4344,7 @@ figcaption {
 }
 
 .project-heading-4 {
-  font-family: Fraunces, sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
   color: #333;
   font-size: 24px;
   line-height: 36px;
@@ -4356,7 +4356,7 @@ figcaption {
 }
 
 .project-heading-4.dark-mode-ph4 {
-  font-family: Generalsans, sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
   color: #e1e1e1;
   font-size: 26px;
   line-height: 36px;
@@ -4372,7 +4372,7 @@ figcaption {
 }
 
 .project-heading-4.ph4n {
-  font-family: Generalsans, sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
   color: #212121;
   font-size: 22px;
   font-weight: 500;
@@ -4611,7 +4611,7 @@ figcaption {
 
 .ph5 {
   padding-right: 0px;
-  font-family: Fraunces, sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
   color: #333;
   font-size: 24px;
   line-height: 36px;
@@ -4624,7 +4624,7 @@ figcaption {
 }
 
 .ph5.adjust4 {
-  font-family: Fraunces, sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
   color: #7c7c7c;
   font-size: 26px;
   line-height: 36px;
@@ -4637,7 +4637,7 @@ figcaption {
 }
 
 .ph5.ph5n {
-  font-family: Generalsans, sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
   font-weight: 600;
   letter-spacing: -0.5px;
 }
@@ -5051,7 +5051,7 @@ figcaption {
   padding-left: 0px;
   border-top: 1px none #ddd;
   border-left: 4px none #c4c4c4;
-  font-family: Generalsans, sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
   color: #757575;
   font-size: 20px;
   font-weight: 500;
@@ -5186,7 +5186,7 @@ figcaption {
 }
 
 .link.link-tweak-7 {
-  font-family: 'DM Sans', sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
   color: #333;
   font-size: 24px;
   font-weight: 400;
@@ -5207,7 +5207,7 @@ figcaption {
 
 .link.card-h1 {
   margin: 20px 20px 8px;
-  font-family: Fraunces, sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
   color: #212121;
   font-size: 20px;
   font-weight: 500;
@@ -5218,14 +5218,14 @@ figcaption {
 }
 
 .link.card-h1.ch1n {
-  font-family: Generalsans, sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
   font-size: 18px;
   font-weight: 500;
   letter-spacing: -0.5px;
 }
 
 .link.card-subheading {
-  font-family: Generalsans, sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
   color: #969696;
   font-size: 11px;
   font-weight: 500;
@@ -5841,7 +5841,7 @@ figcaption {
   transition: -webkit-transform 600ms ease;
   transition: transform 600ms ease;
   transition: transform 600ms ease, -webkit-transform 600ms ease;
-  font-family: Fraunces, sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
   color: #3f3532;
   font-size: 24px;
   font-weight: 400;
@@ -8111,7 +8111,7 @@ figcaption {
 }
 
 .quote-text {
-  font-family: Fraunces, sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
   color: #333;
   font-size: 28px;
   line-height: 44px;
@@ -8188,7 +8188,7 @@ figcaption {
 .item-title {
   -webkit-transition: color 200ms ease;
   transition: color 200ms ease;
-  font-family: Fraunces, sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
   color: #0a0a0a;
   font-size: 26px;
   line-height: 32px;
@@ -8542,7 +8542,7 @@ figcaption {
   width: 100%;
   padding: 20px 40px;
   opacity: 1;
-  font-family: Fraunces, sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
   color: #4e525e;
   font-size: 56px;
   line-height: 78px;
@@ -8680,7 +8680,7 @@ figcaption {
 }
 
 .card-h1 {
-  font-family: Fraunces, sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
   text-decoration: none;
 }
 
@@ -8776,7 +8776,7 @@ figcaption {
 .ht1 {
   margin-top: 4px;
   padding: 4px 0px;
-  font-family: Fraunces, sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
   font-size: 26px;
   line-height: 28px;
   font-style: normal;
@@ -9725,7 +9725,7 @@ figcaption {
 }
 
 .text-block-10 {
-  font-family: Generalsans, sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
   color: #8b8b8b;
   font-size: 12px;
   font-weight: 500;
@@ -9911,7 +9911,7 @@ figcaption {
   margin-left: auto;
   padding-top: 100px;
   padding-bottom: 100px;
-  font-family: Generalsans, sans-serif;
+  font-family: Cabinetgrotesk, sans-serif;
   color: #000;
   font-size: 120px;
   line-height: 110px;
@@ -10067,13 +10067,13 @@ figcaption {
 
   .navigation-item {
     opacity: 0.8;
-    font-family: Generalsans, sans-serif;
+    font-family: Cabinetgrotesk, sans-serif;
     color: #777;
     font-weight: 500;
   }
 
   .navigation-item.w--current {
-    font-family: Generalsans, sans-serif;
+    font-family: Cabinetgrotesk, sans-serif;
     color: #1a1b1f;
     font-weight: 500;
   }
@@ -10096,7 +10096,7 @@ figcaption {
   }
 
   .text-block {
-    font-family: Generalsans, sans-serif;
+    font-family: Cabinetgrotesk, sans-serif;
     color: #1a1b1f;
     font-size: 14px;
     line-height: 20px;
@@ -10139,7 +10139,7 @@ figcaption {
   }
 
   .heading {
-    font-family: Fraunces, sans-serif;
+    font-family: Cabinetgrotesk, sans-serif;
     font-size: 50px;
     line-height: 56px;
     font-weight: 400;
@@ -10186,7 +10186,7 @@ figcaption {
     margin-bottom: 0px;
     padding-top: 0px;
     padding-right: 0px;
-    font-family: Fraunces, sans-serif;
+    font-family: Cabinetgrotesk, sans-serif;
     font-size: 26px;
     font-weight: 400;
   }
@@ -10213,7 +10213,7 @@ figcaption {
   }
 
   .methodtext.sp-tweak {
-    font-family: Fraunces, sans-serif;
+    font-family: Cabinetgrotesk, sans-serif;
     color: #4e535e;
     font-size: 24px;
     line-height: 28px;
@@ -10264,14 +10264,14 @@ figcaption {
   }
 
   .project-heading-4 {
-    font-family: Fraunces, sans-serif;
+    font-family: Cabinetgrotesk, sans-serif;
     font-size: 24px;
     line-height: 36px;
     font-weight: 300;
   }
 
   .project-heading-4.adjust-4 {
-    font-family: Fraunces, sans-serif;
+    font-family: Cabinetgrotesk, sans-serif;
   }
 
   .bold-text-4 {
@@ -10279,7 +10279,7 @@ figcaption {
   }
 
   .ph5 {
-    font-family: Fraunces, sans-serif;
+    font-family: Cabinetgrotesk, sans-serif;
     font-weight: 500;
   }
 
@@ -10435,7 +10435,7 @@ figcaption {
     transition: -webkit-transform 300ms cubic-bezier(.55, .085, .68, .53);
     transition: transform 300ms cubic-bezier(.55, .085, .68, .53);
     transition: transform 300ms cubic-bezier(.55, .085, .68, .53), -webkit-transform 300ms cubic-bezier(.55, .085, .68, .53);
-    font-family: Fraunces, sans-serif;
+    font-family: Cabinetgrotesk, sans-serif;
     color: #4e535e;
     font-size: 24px;
     font-weight: 400;
@@ -10660,7 +10660,7 @@ figcaption {
   }
 
   .item-title {
-    font-family: Fraunces, sans-serif;
+    font-family: Cabinetgrotesk, sans-serif;
     font-size: 26px;
     font-weight: 400;
   }
@@ -10701,7 +10701,7 @@ figcaption {
   .intro-heading-2 {
     width: 100%;
     padding: 20px 40px;
-    font-family: Fraunces, sans-serif;
+    font-family: Cabinetgrotesk, sans-serif;
     color: #4e525e;
     font-size: 56px;
     line-height: 78px;
@@ -10719,7 +10719,7 @@ figcaption {
   .intro-heading-2.ih2 {
     padding-right: 0px;
     padding-left: 0px;
-    font-family: Fraunces, sans-serif;
+    font-family: Cabinetgrotesk, sans-serif;
     color: #4e525e;
     font-size: 58px;
     line-height: 78px;
@@ -11069,7 +11069,7 @@ figcaption {
   }
 
   .ih4 {
-    font-family: Fraunces, sans-serif;
+    font-family: Cabinetgrotesk, sans-serif;
     color: #313338;
     font-size: 110px;
     line-height: 100px;
@@ -11091,11 +11091,11 @@ figcaption {
 
 @media screen and (min-width: 1440px) {
   .navigation-item {
-    font-family: Generalsans, sans-serif;
+    font-family: Cabinetgrotesk, sans-serif;
   }
 
   .navigation-item.w--current {
-    font-family: Generalsans, sans-serif;
+    font-family: Cabinetgrotesk, sans-serif;
   }
 
   .div-block.wbt-image {
@@ -11197,7 +11197,7 @@ figcaption {
   }
 
   .link-text {
-    font-family: Fraunces, sans-serif;
+    font-family: Cabinetgrotesk, sans-serif;
     color: #3f3532;
     font-weight: 400;
     letter-spacing: -0.5px;
@@ -11218,7 +11218,7 @@ figcaption {
   }
 
   .item-title {
-    font-family: Fraunces, sans-serif;
+    font-family: Cabinetgrotesk, sans-serif;
     color: #3d3736;
     font-weight: 400;
     letter-spacing: -0.5px;
@@ -11231,14 +11231,14 @@ figcaption {
   .intro-heading-2 {
     padding-right: 40px;
     padding-left: 40px;
-    font-family: Fraunces, sans-serif;
+    font-family: Cabinetgrotesk, sans-serif;
     color: #4e525e;
     line-height: 78px;
     font-weight: 400;
   }
 
   .intro-heading-2.ih2 {
-    font-family: Fraunces, sans-serif;
+    font-family: Cabinetgrotesk, sans-serif;
     font-size: 56px;
     font-weight: 400;
     letter-spacing: -2px;
@@ -11279,7 +11279,7 @@ figcaption {
   }
 
   .text-block {
-    font-family: Generalsans, sans-serif;
+    font-family: Cabinetgrotesk, sans-serif;
     font-weight: 500;
     text-transform: none;
   }
@@ -11315,7 +11315,7 @@ figcaption {
 
   .intro-heading-2 {
     padding-right: 40px;
-    font-family: Fraunces, sans-serif;
+    font-family: Cabinetgrotesk, sans-serif;
     line-height: 78px;
   }
 
@@ -15044,13 +15044,6 @@ figcaption {
   font-display: swap;
 }
 
-@font-face {
-  font-family: 'Sharpie';
-  src: url('https://uploads-ssl.webflow.com/63d603d73dcdc256ee3ab5ce/63d603d73dcdc2591e3ab996_Sharpie-Extrabold.ttf') format('truetype'), url('https://uploads-ssl.webflow.com/63d603d73dcdc256ee3ab5ce/63d603d73dcdc274633ab9a7_Sharpie-Bold.ttf') format('truetype');
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-}
 
 @font-face {
   font-family: 'Sharpie';
